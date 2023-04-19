@@ -1,4 +1,4 @@
-package com.company.food;
+package com.company;
 
 public class Menu
 {
