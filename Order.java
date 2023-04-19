@@ -1,4 +1,4 @@
-package com.company.food;
+package com.company;
 
 import java.util.ArrayList;
 import java.util.Arrays;
